@@ -1,13 +1,40 @@
-<p align="center">
-  <img src="https://i.postimg.cc/jqNd4Ppn/8139d602-57f4-4b55-afb8-f1d8905b4e38.png" alt="Haad Sheikh" width="300" />
-</p>
+<table align= center>
+  <tr>
+    <td>
+      <img 
+        src="https://i.postimg.cc/jqNd4Ppn/8139d602-57f4-4b55-afb8-f1d8905b4e38.png" 
+        alt="Haad Sheikh" 
+        width="250" 
+        style="border-radius: 20px; border: 2px dashed yellow;" 
+      />
+    </td>
+    <td style="padding-left: 20px;">
+      <h1 align=center><strong><em><i>Hi 👋, I'm Haad Sheikh</i></em></strong></h1>
+      <h3><strong>A Passionate MERN Stack Developer from Pakistan 🇵🇰</strong></h3>
+    </td>
+  </tr>
+</table>
 
-<h1 align="center"><strong><em>Hi 👋, I'm Haad Sheikh</em></strong></h1>
-<h3 align="center"><strong>A Passionate MERN Stack Developer from Pakistan 🇵🇰</strong></h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=haadjs&label=Profile%20views&color=0e75b6&style=flat" alt="haadjs" />
 </p>
+
+---
+
+🚀 **About Me:**
+
+I'm a dedicated and creative **Full Stack Web Developer** specializing in the **MERN Stack (MongoDB, Express.js, React, Node.js)**. I love building responsive, scalable, and high-performance web applications. With a strong foundation in **JavaScript**, I bring ideas to life through clean code and interactive user experiences.
+
+🔭 I’m always working on exciting projects that challenge my skills and push me to grow as a developer.
+
+💡 I believe in **learning by building**, and I enjoy solving real-world problems through code.
+
+🌱 Currently expanding my knowledge in **Next.js**, **TypeScript**, and **Backend architecture**.
+
+---
+
+### 🏆 GitHub Trophies
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -18,12 +45,16 @@
 ---
 
 ### 🌐 Connect with me:
+
 <p>
   <a href="https://www.linkedin.com/in/haad-sheikh/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://instagram.com/haad._glimpse._" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61555704857977" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 </p>
 
@@ -47,3 +78,6 @@
 </p>
 
 ---
+
+ <p align=center>⭐*Thanks for visiting my profile! Feel free to check out my repositories and drop a ⭐ if you like any of my work!*</p>
+
