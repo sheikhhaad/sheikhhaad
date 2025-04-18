@@ -1,4 +1,5 @@
-<p>My Portfolio <a href='https://my-portfolio-haad-sheikhs-projects.vercel.app/'></a>Haad sheikh</p>
+<p align=center>My Portfolio: <a href='https://my-portfolio-haad-sheikhs-projects.vercel.app/' target="_blank">Haad Sheikh</a></p>
+
 <table align= center>
   <tr>
     <td>
