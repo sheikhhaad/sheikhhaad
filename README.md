@@ -4,7 +4,7 @@
   <tr>
     <td>
       <img 
-        src="https://i.postimg.cc/jqNd4Ppn/8139d602-57f4-4b55-afb8-f1d8905b4e38.png" 
+        src="https://i.postimg.cc/QM1L6Kq9/Chat-GPT-Image-Jun-6-2025-10-06-48-PM.png" 
         alt="Haad Sheikh" 
         width="250" 
         style="border-radius: 20px; border: 2px dashed yellow;" 
