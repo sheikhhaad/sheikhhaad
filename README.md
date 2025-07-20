@@ -36,16 +36,6 @@ I'm a dedicated and creative **Full Stack Web Developer** specializing in the **
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=haadjs&theme=onedark&row=1&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
 ### 🌐 Connect with me:
 
 <p>
@@ -80,6 +70,18 @@ I'm a dedicated and creative **Full Stack Web Developer** specializing in the **
 </p>
 
 ---
+---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sheikhhaad&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhhaad&theme=radical" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheikhhaad&theme=react-dark" />
+</p>
+
+
+---
  <p align=center>⭐*Thanks for visiting my profile! Feel free to check out my repositories and drop a ⭐ if you like any of my work!*</p>
 
