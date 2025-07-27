@@ -1,7 +1,7 @@
 <!--
-  Meta Title: Haad Sheikh - MERN Stack Developer from Pakistan
+  Meta Title:sheikhhaad - MERN Stack Developer from Pakistan
   Meta Description: Full Stack Developer skilled in React, Node.js, Firebase, MongoDB, and building real-world projects.
-  Meta Keywords: Haad Sheikh, MERN Stack, React Developer, Firebase, Node.js, Portfolio, Pakistan Developer
+  Meta Keywords:sheikhhaad mern stack dev, MERN Stack, React Developer, Firebase, Node.js, Portfolio, Pakistan Developer
 -->
 
 <p align=center>My Portfolio: <a href='https://haad-portfolio-haad-sheikhs-projects.vercel.app/' target="_blank">Haad Sheikh</a></p>
