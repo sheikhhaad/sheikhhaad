@@ -4,7 +4,7 @@
   Meta Keywords:sheikhhaad mern stack dev, haad sheikh, MERN Stack, React Developer, Firebase, Node.js, Portfolio, Pakistan Developer
 -->
 
-<p align=center>My Portfolio: <a href='https://sheikhhaad.vercel.app/' target="_blank">Haad Sheikh</a></p>
+<p align=center>My Portfolio: <a href='https://sheikhhaad.vercel.app/' target="_blank" >Haad Sheikh</a></p>
 
 <table align= center>
   <tr>
