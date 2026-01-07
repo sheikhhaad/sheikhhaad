@@ -48,7 +48,7 @@ I'm a dedicated and creative **Full Stack Web Developer** specializing in the **
   <a href="https://instagram.com/sheikhhaad_" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=61555704857977" target="blank">
+  <a href="https://www.facebook.com/sheikhhaad0" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 </p>
