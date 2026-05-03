@@ -1,188 +1,137 @@
-<!-- 
-  Meta Title: Sheikhhaad - MERN Stack Developer from Pakistan
-  Meta Description: Full Stack Developer skilled in React, Node.js, Firebase, MongoDB, and building real-world projects.
-  Meta Keywords: sheikhhaad, haad sheikh mern stack dev, haad sheikh, MERN Stack, React Developer, Firebase, Node.js, Portfolio, Pakistan Developer
--->
+<!-- Meta Title: Sheikhhaad - MERN Stack Developer from Pakistan -->
+<!-- Meta Description: Full Stack Developer skilled in React, Node.js, Firebase, MongoDB -->
 
 <div align="center">
-  <a href="https://sheikhhaad.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=vercel" alt="Portfolio Badge" />
-  </a>
+
+```
+ _____ _   _  _____ _____ _   __ _   _  _   _   ___    ___ ______ 
+/  ___| | | ||  ___|_   _| | / /| | | || | | | / _ \  / _ \|  _  \
+\ `--.| |_| || |__   | | | |/ / | |_| || |_| |/ /_\ \/ /_\ \ | | |
+ `--. \  _  ||  __|  | | |    \ |  _  ||  _  ||  _  ||  _  | | | |
+/\__/ / | | || |___ _| |_| |\  \| | | || | | || | | || | | | |/ / 
+\____/\_| |_/\____/ \___/\_| \_/\_| |_/\_| |_/\_| |_/\_| |_/___/  
+```
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00F5A0?style=for-the-badge&logoColor=white)](https://sheikhhaad.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikhhaad/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sheikhhaad_)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sheikhhaad0)
+
 </div>
 
 ---
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img 
-          src="https://i.postimg.cc/pTP44hj6/Chat-GPT-Image-Jun-11-2025-05-21-47-PM.png" 
-          alt="Haad Sheikh." 
-          width="250" 
-          style="border-radius: 20px; border: 2px dashed yellow;" 
-        />
-      </td>
-      <td style="padding-left: 20px;">
-        <h1><strong>Hi 👋, I'm Haad Sheikh</strong></h1>
-        <h3><strong>A Passionate MERN Stack Developer from Pakistan 🇵🇰</strong></h3>
-      </td>
-    </tr>
-  </table>
-</div>
+<img align="right" src="https://i.postimg.cc/pTP44hj6/Chat-GPT-Image-Jun-11-2025-05-21-47-PM.png" width="200" style="border-radius:50%; border: 3px solid #00F5A0;" />
 
----
+## 👋 Hi, I'm Haad Sheikh
 
-## 🚀 About Me
+**A Passionate MERN Stack Developer from Pakistan 🇵🇰**
 
-I'm a dedicated and creative Full Stack Web Developer specializing in the MERN Stack (MongoDB, Express.js, React, Node.js). I love building responsive, scalable, and high-performance web applications. With a strong foundation in **JavaScript**, I bring ideas to life through clean code and interactive user experiences.
+> *"I believe in learning by building — solving real-world problems through code is what drives me."*
 
-- 🔭 I’m always working on exciting projects that challenge my skills and push me to grow as a developer.
-- 💡 I believe in **learning by building**, and I enjoy solving real-world problems through code.
-- 🌱 Currently expanding my knowledge in **Next.js**, **TypeScript**, and **Backend architecture**.
+- 🔭 Always building exciting projects that challenge my skills
+- 🌱 Currently expanding into **Next.js**, **TypeScript** & **Backend Architecture**
+- 💡 Strong foundation in **JavaScript** — from UI to APIs
+- 🤝 Open to **collaborations** and **freelance projects**
+- 📍 Based in **Pakistan** · Available worldwide
 
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sheikhhaad/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-  <a href="https://instagram.com/sheikhhaad_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
-  </a>
-  <a href="https://www.facebook.com/sheikhhaad0" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
-  </a>
-</p>
+<br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> 
-  </a>
-</p>
+### ⚡ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Backend & Databases
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> 
-  </a> 
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  </a>
-</p>
+### 🔧 Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
 
-### Tools & Platforms
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
-  </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/> 
-  </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> 
-  </a> 
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/> 
-  </a> 
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub Actions" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> 
-  </a> 
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40"/> 
-  </a> 
-  <a href="https://vitejs.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/> 
-  </a> 
-  <a href="https://socket.io" target="_blank" rel="noreferrer"> 
-    <img src="https://socket.io/images/logo.svg" alt="Socket.io" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://supabase.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40"/> 
-  </a> 
-  <a href="https://vercel.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/> 
-  </a>
-</p>
+### ☁️ Tools & Platforms
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=black)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheikhhaad&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhhaad&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheikhhaad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00F5A0&icon_color=00D9F5&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhhaad&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5A0&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sheikhhaad&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5A0&fire=00D9F5&currStreakLabel=00F5A0)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sheikhhaad&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F5A0&line=00D9F5&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 🌱 Currently Learning
+
+| Technology | Status |
+|---|---|
+| 🔲 Next.js (App Router) | `In Progress` |
+| 🔲 TypeScript (Advanced Patterns) | `In Progress` |
+| 🔲 Backend Architecture & System Design | `In Progress` |
+| 🔲 NestJS | `In Progress` |
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheikhhaad&theme=react-dark" alt="GitHub Activity Graph" />
+
+| Platform | Link |
+|---|---|
+| 💼 LinkedIn | [linkedin.com/in/sheikhhaad](https://www.linkedin.com/in/sheikhhaad/) |
+| 📸 Instagram | [@sheikhhaad_](https://instagram.com/sheikhhaad_) |
+| 👤 Facebook | [sheikhhaad0](https://www.facebook.com/sheikhhaad0) |
+| 🌐 Portfolio | [sheikhhaad.vercel.app](https://sheikhhaad.vercel.app/) |
+
 </div>
 
 ---
 
 <div align="center">
-  <h3>⭐ Thanks for visiting my profile! Feel free to check out my repositories and drop a ⭐ if you like any of my work! ⭐</h3>
-  <p>If you have any questions or want to collaborate, don't hesitate to reach out!</p>
+
+### ⭐ If you find my work useful, please consider giving a star to my repos!
+
+*Built with ♥ in Pakistan · Always shipping, always learning.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=sheikhhaad&color=00F5A0&style=flat-square&label=Profile+Views)
+
 </div>
