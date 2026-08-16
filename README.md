@@ -2,11 +2,14 @@
 ### MERN Stack Developer · Pakistan 🇵🇰
 
 > `// "I believe in learning by building — solving real-world problems through code is what drives me."`
-
+>
+> 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sheikhhaad.vercel.app-00b37e?style=flat-square&logo=vercel&logoColor=white)](https://sheikhhaad.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sheikhhaad-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikhhaad/)
 [![Instagram](https://img.shields.io/badge/Instagram-@sheikhhaad__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/sheikhhaad_)
 [![Facebook](https://img.shields.io/badge/Facebook-sheikhhaad0-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/sheikhhaad0)
+[![X](https://img.shields.io/badge/Twitter-@_sheikhhaad-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/_sheikhhaad)
+
 
 ---
 
