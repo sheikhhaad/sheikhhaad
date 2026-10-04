@@ -1,5 +1,5 @@
 # Haad Sheikh
-### MERN Stack Developer · Pakistan 🇵🇰
+### Full Stack Developer · Pakistan 🇵🇰
 
 > `// "I believe in learning by building — solving real-world problems through code is what drives me."`
 >
